@@ -2,9 +2,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 import java.util.Scanner;
 
-/**
- * Created by jesperbergman on 2017-10-31.
- */
+
 public class IPFinder {
     public static void main(String[] args) {
         String host;
